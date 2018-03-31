@@ -1,6 +1,6 @@
-    #include<fstream>
-	#include<stdlib.h>
-	#include<bits/stdc++.h>
+#include<fstream>
+#include<stdlib.h>
+#include<bits/stdc++.h>
 #include <unistd.h>
 
 
