@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/Dev/C++/Criminal Record/main.cpp
+fstream
+-
+stdlib.h
+-
+bits/stdc++.h
+-
+unistd.h
+-
+
